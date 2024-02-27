@@ -5,3 +5,9 @@ Objectives of the game:
   2. By doing so the mouse runs away from the chasing cat and eventaully arrives at the CheesneyLand.
 
 ![Screenshot](mainGame_screenshot.png)
+
+
+![Loser](loser_screen.png)
+
+
+![Winner](winner_screen.png)
